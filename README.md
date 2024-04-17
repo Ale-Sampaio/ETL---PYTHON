@@ -1,5 +1,4 @@
-# ETL-PYTHON
-## Transformação e Armazenamento de Dados em Banco de Dados SQLite
+# ETL-PYTHON: Transformação e Armazenamento de Dados em Banco de Dados SQLite
 Este projeto Python realiza a Extração, Transformação e Carregamento (ETL) de dados de vendas de duas filiais diferentes, armazenando os dados transformados em um banco de dados SQLite. Além disso, apresenta a recuperação dos dados armazenados no banco de dados por meio de consultas SQL simples.
 ## Extração e Transformação de Dados:
 Os dados de vendas são extraídos de arquivos CSV e Excel, transformados e armazenados em estruturas de dados do pandas. Em seguida, são realizadas transformações para calcular o valor total de vendas para cada filial.
